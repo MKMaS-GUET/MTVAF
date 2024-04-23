@@ -7,6 +7,4 @@ Source codes of the our paper titled "Multi-level Textual-Visual Alignment and F
 - The face descriptions from the raw images from [FITE]([https://github.com/NUSTM/VLP-MABSA](https://github.com/yhit98/FITE)), many thanks.
 - The OCR text of images extracted from Google's Tesseract OCR engine.
 - Obtained ANPs of each image following the image preprocessing procedure of [VLP-MABSA](https://github.com/NUSTM/VLP-MABSA).
-- Twitter2015 and Twitter2017 from [BaiduNetdisk](链接：https://pan.baidu.com/s/18V3eR16yQ6DI4uOgo1AZVQ 
-提取码：5fyu 
---来自百度网盘超级会员V1的分享)
+- Twitter2015 and Twitter2017 from [BaiduNetdisk](链接：https://pan.baidu.com/s/18V3eR16yQ6DI4uOgo1AZVQ 提取码：5fyu )
